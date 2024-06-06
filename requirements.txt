@@ -61,6 +61,6 @@ win10toast==0.9
 wordcloud==1.8.0
 cryptography==2.9.2
 certifi==2022.9.24
-fastapi==0.33.0
+fastapi==0.65.2
 waitress==1.4.4
 aiohttp==3.8.3
